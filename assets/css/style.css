@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: "Open-Sans";
-  src: url("./assets/fonts/OpenSans-Regular.ttf");
+  src: url("../fonts/OpenSans-Regular.ttf");
 }
 * {
   margin: 0;
@@ -32,7 +32,7 @@ li {
 }
 
 .header {
-  background: url("./assets/img/hero-image.png") no-repeat center center/cover;
+  background: url("../img/hero-image.png") no-repeat center center/cover;
   height: 820px;
 }
 .header__container {
@@ -128,7 +128,7 @@ li {
 }
 .phone-box__textnum::before {
   content: "";
-  background: url("./assets/svg/phone.svg");
+  background: url("../svg/phone.svg");
   width: 23px;
   height: 23px;
   display: block;
@@ -341,7 +341,7 @@ li {
 }
 
 .fourth {
-  background: url("./assets/img/bgsection2.png") no-repeat center center/cover;
+  background: url("../img/bgsection2.png") no-repeat center center/cover;
 }
 .fourth__container {
   display: flex;
@@ -468,7 +468,7 @@ li {
 }
 
 .six {
-  background: url("./assets/img/back-sixth.png") no-repeat center center/cover;
+  background: url("../img/back-sixth.png") no-repeat center center/cover;
 }
 .six__container {
   display: flex;
